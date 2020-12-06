@@ -17,7 +17,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Rashid Ahmad
+ * @author Baron Rose
  */
 public class Myclient extends javax.swing.JFrame {
     String iD,clientID="";
@@ -262,4 +262,4 @@ public class Myclient extends javax.swing.JFrame {
 
 }
 
-//created by Rashid Ahmad
+//created by Baron Rose

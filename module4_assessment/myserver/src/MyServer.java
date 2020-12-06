@@ -19,7 +19,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Rashid Ahmad
+ * @author Baron Rose
  */
 public class MyServer extends javax.swing.JFrame {
 
@@ -298,4 +298,4 @@ public class MyServer extends javax.swing.JFrame {
     // End of variables declaration//GEN-END:variables
 }
 
-//created by Rashid Ahmad
+//created by Baron Rose
